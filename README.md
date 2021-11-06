@@ -50,16 +50,6 @@
 
 ---
 
----
-
-[![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats)
-
-
-<!---
-tjy2202/tjy2202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -94,21 +84,18 @@ You can click the Preview link to take a look at your changes.
 [website]: https://tjy2202.github.io/
 [instagram]: https://www.instagram.com/eastk1te_
 [linkedin]: 
+
+<!-- stats 기본 version [![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats) -->
+
+<!-- - tjy2202/tjy2202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. --->
+
 <!-- [course]: http://vsCodeHero.com -->
 <!--[twitter]: https://twitter.com/codeSTACKr -->
 <!--[youtube]: https://youtube.com/codeSTACKr -->
-
-
-<!--
-### 📺 Latest YouTube Videos
--->
+<!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
-<!--
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
--->
+<!-- - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI) -->
 <!-- YOUTUBE:END -->
-<!--
-➡️ [more videos...](https://youtube.com/codestackr)
--->
-
+<!--  ➡️ [more videos...](https://youtube.com/codestackr) -->
 <!-- https://github.com/NawafSwe/NawafSwe/blob/main/README.md?plain=1 -->
