@@ -1,8 +1,15 @@
 ### Hi, there, I'm Dongyeon 👋 <!-- - aka [cosdeStacker][website] 🔭🌱👯🥅⚡🤣👋📫🤔💪➡️🌊💲🤯✨�-->
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+# Connect with me:
+- 📫 How to reach me 
+[<img align="left" alt="Gitblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<!-- [![Website](https://img.shields.io/website?label=Gitblog.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+<!-- [![Instagram Follow](https://img.shields.io/twitter/follow/Instagram?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
+ 
 ## I'm a Student
 
 - 👀 I’m interested in DataScience
@@ -11,30 +18,23 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🤣 Fun fact: I love to draw and play guitar / drums
 
-# Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-- 📫 How to reach me ...
-  
+
+<br />
+
 ---
   
 <p align="center">
-<img height="180em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
+<img height="150em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=tjy2202&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="tjy2202"/>
+<img height="150em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=tjy2202&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="tjy2202"/>
 
   <p align="center"> 
   <div  align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=tjy2202&theme=xcode" alt="tjy2202"/>
 </div>
 
-
 ---
-
 
 ### ✨Languages and Tools:
 
@@ -60,20 +60,14 @@ tjy2202/tjy2202 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [(BOJ)단계별 문제 풀기, 백준 골드 달성!](https://tjy2202.github.io/2021/10/21/%EB%B0%B1%EC%A4%80%EA%B3%A8%EB%93%9C%EB%8B%AC%EC%84%B1/)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://tjy2202.github.io/)
 
 ---
 
@@ -97,16 +91,13 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://tjy2202.github.io/
+[instagram]: https://www.instagram.com/eastk1te_
+[linkedin]: 
+<!-- [course]: http://vsCodeHero.com -->
+<!--[twitter]: https://twitter.com/codeSTACKr -->
+<!--[youtube]: https://youtube.com/codeSTACKr -->
+
 
 <!--
 ### 📺 Latest YouTube Videos
@@ -120,3 +111,4 @@ You can click the Preview link to take a look at your changes.
 ➡️ [more videos...](https://youtube.com/codestackr)
 -->
 
+<!-- https://github.com/NawafSwe/NawafSwe/blob/main/README.md?plain=1 -->
