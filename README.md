@@ -19,7 +19,22 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - 📫 How to reach me ...
   
-![Image of Yaktocat](https://raw.githubusercontent.com/tjy2202/tjy2202/output/github-contribution-grid-snake.svg)
+---
+  
+<p align="center">
+<img height="180em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=tjy2202&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="tjy2202"/>
+
+  <p align="center"> 
+  <div  align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=tjy2202&theme=xcode" alt="tjy2202"/>
+</div>
+
+
+---
+
 
 ### ✨Languages and Tools:
 
