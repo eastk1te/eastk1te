@@ -83,7 +83,8 @@
 
 [website]: https://tjy2202.github.io/
 [instagram]: https://www.instagram.com/eastk1te_
-[linkedin]: 
+<!-- 수정 해야함 -->
+[linkedin]: https://www.instagram.com/eastk1te_  
 
 <!-- stats 기본 version [![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats) -->
 
