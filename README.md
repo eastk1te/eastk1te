@@ -24,11 +24,10 @@
 <br />
 
 ---
-<br> <p></p>
 
 <a href="https://solved.ac/tjy2202"> <img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=tjy2202" alt="tjy2202" /> </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact) -->
+<br>
 <p align="center">
 <img height="145em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
 
