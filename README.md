@@ -5,7 +5,9 @@
 [<img align="left" alt="Gitblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<a href="mailto:eastkite4043@gmail.com">
+	<img align="left" alt="Hongjun Jang" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <!-- [![Website](https://img.shields.io/website?label=Gitblog.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Instagram Follow](https://img.shields.io/twitter/follow/Instagram?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
@@ -22,7 +24,11 @@
 <br />
 
 ---
-  
+<br> <p></p>
+
+<a href="https://solved.ac/tjy2202"> <img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=tjy2202" alt="tjy2202" /> </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact)
+
 <p align="center">
 <img height="145em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
 
@@ -100,3 +106,6 @@ You can click the Preview link to take a look at your changes. --->
 <!-- YOUTUBE:END -->
 <!--  ➡️ [more videos...](https://youtube.com/codestackr) -->
 <!-- https://github.com/NawafSwe/NawafSwe/blob/main/README.md?plain=1 -->
+
+
+
