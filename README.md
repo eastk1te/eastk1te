@@ -38,7 +38,7 @@
 
 <br />
 
-<a href="https://solved.ac/tjy2202"> <img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=tjy2202" alt="tjy2202" /> </a>
+<a href="https://solved.ac/tjy2202"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=tjy2202" alt="tjy2202" /> </a>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact) -->
 
 <br />
