@@ -1,14 +1,7 @@
-### Hi, there, I'm Dongyeon 👋 <!-- - aka [cosdeStacker][website] 🔭🌱👯🥅⚡🤣👋📫🤔💪➡️🌊💲🤯✨�-->
+# Hi, there, I'm Dongyeon 👋 <!-- - aka [cosdeStacker][website] 🔭🌱👯🥅⚡🤣👋📫🤔💪➡️🌊💲🤯✨�-->
 
-# Connect with me:
-- 📫 How to reach me 
-[<img align="left" alt="Gitblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="mailto:eastkite4043@gmail.com">
-	<img align="left" alt="Hongjun Jang" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
+<br />
+<br />
 <!-- [![Website](https://img.shields.io/website?label=Gitblog.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Instagram Follow](https://img.shields.io/twitter/follow/Instagram?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
  
@@ -16,10 +9,22 @@
 
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Deeplearning
-- 💞️ I’m looking to collaborate on Project for NLP, Audio Video Processing, Computer Vision
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 🤣 Fun fact: I love to draw and play guitar / drums
+- 💞️ I’m looking to collaborate on Project for Computer Vision <!-- NLP, Audio Video Processing, -->
+- 🥅 2022 Goals: Contribute more to Open Source projects
+<!-- - 🤣 Fun fact: I love to draw and play guitar / drums-->
 
+--- 
+
+## Connect with me:
+📫 How to reach me 
+<br />
+
+[<img align="left" alt="Gitblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="mailto:eastkite4043@gmail.com">
+	<img align="left" alt="Dongyeon Kim" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br />
 
@@ -29,7 +34,7 @@
 
 <br />
 
-<p align="center">
+<p> <!-- align="center"> -->
 <img height="145em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
 
 <!-- Most Used Languages -->
@@ -42,21 +47,17 @@
 
 <br />
 
-
-
 ---
 
 ### ✨Languages and Tools:
 
----
-
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-navy?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-red?style=flat-square&logo=Linux&logoColor=white"/></a>
-  
-<br />
-<br />
+
+<!-- 
+<img src="https://img.shields.io/badge/Java-navy?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-red?style=flat-square&logo=Linux&logoColor=white"/></a> 
+-->
 
 ---
 
@@ -64,9 +65,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [(BOJ)단계별 문제 풀기, 백준 골드 달성!](https://tjy2202.github.io/2021/10/21/%EB%B0%B1%EC%A4%80%EA%B3%A8%EB%93%9C%EB%8B%AC%EC%84%B1/)
+- [컴퓨터 활용 능력 1급 취득](https://tjy2202.github.io/2018/03/23/%EC%BB%B4%ED%99%9C1%EA%B8%89%EC%B7%A8%EB%93%9D/)
 
 <!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://tjy2202.github.io/)
 
 ---
