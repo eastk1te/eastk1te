@@ -1,12 +1,6 @@
 # Hi, there, I'm Dongyeon 👋 <!-- - aka [cosdeStacker][website] 🔭🌱👯🥅⚡🤣👋📫🤔💪➡️🌊💲🤯✨�-->
 
-<br />
-
-<!-- [![Website](https://img.shields.io/website?label=Gitblog.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-<!-- [![Instagram Follow](https://img.shields.io/twitter/follow/Instagram?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
- 
 ### I'm a Student
-
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Deeplearning
 - 💞️ I’m looking to collaborate on Project for Computer Vision <!-- NLP, Audio Video Processing, -->
@@ -14,29 +8,23 @@
 <!-- - 🤣 Fun fact: I love to draw and play guitar / drums-->
 
 <br />
+---
 
-<p align="center">
+<p align="center"> <!-- BOJ stats -->
 <a href="https://solved.ac/tjy2202"> <img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=tjy2202" alt="tjy2202" /> </a>
 <p />
 
-<br />
-
-<p align="center">
+<p align="center"> 
+<!-- github stats-->
 <img height="145em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
 
-<!-- stats 기본 version [![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats) -->
-	
 <!-- Most Used Languages -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact) -->
 <img height="145em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=tjy2202&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="tjy2202"/>
-<p />
+<p /> 
 
-<div  align="center">
+<div  align="center"> <!-- current activity -->
     <img src="https://activity-graph.herokuapp.com/graph?username=tjy2202&theme=xcode" alt="tjy2202"/>
 </div>
-
-
-<br />
 
 ---
 
@@ -57,9 +45,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [(BOJ)단계별 문제 풀기, 백준 골드 달성!](https://tjy2202.github.io/2021/10/21/%EB%B0%B1%EC%A4%80%EA%B3%A8%EB%93%9C%EB%8B%AC%EC%84%B1/)
 - [컴퓨터 활용 능력 1급 취득](https://tjy2202.github.io/2018/03/23/%EC%BB%B4%ED%99%9C1%EA%B8%89%EC%B7%A8%EB%93%9D/)
-
 <!-- BLOG-POST-LIST:END -->
+
 ➡️ [more blog posts...](https://tjy2202.github.io/)
+
+---
 
 ### Connect with me:
 📫 How to reach me 
@@ -72,7 +62,7 @@
 	<img align="left" alt="Dongyeon Kim" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br />
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -101,7 +91,9 @@
 <!-- 수정 해야함 -->
 [linkedin]: https://www.instagram.com/eastk1te_  
 
-
+<!-- github stats  versiton -->
+<!-- [![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact) -->
 
 <!-- 최근 본 유투브 리스트 양식 -->
 <!-- ### 📺 Latest YouTube Videos -->
