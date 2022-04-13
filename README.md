@@ -1,11 +1,11 @@
 # Hi, there, I'm Dongyeon 👋 <!-- - aka [cosdeStacker][website] 🔭🌱👯🥅⚡🤣👋📫🤔💪➡️🌊💲🤯✨�-->
 
 <br />
-<br />
+
 <!-- [![Website](https://img.shields.io/website?label=Gitblog.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 <!-- [![Instagram Follow](https://img.shields.io/twitter/follow/Instagram?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
  
-## I'm a Student
+### I'm a Student
 
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Deeplearning
@@ -13,37 +13,24 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 <!-- - 🤣 Fun fact: I love to draw and play guitar / drums-->
 
---- 
-
-## Connect with me:
-📫 How to reach me 
 <br />
 
-[<img align="left" alt="Gitblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="mailto:eastkite4043@gmail.com">
-	<img align="left" alt="Dongyeon Kim" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br />
-
----
 <a href="https://solved.ac/tjy2202"> <img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=tjy2202" alt="tjy2202" /> </a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact) -->
 
 <br />
 
-<p> <!-- align="center"> -->
+<!-- <p align="center"> -->
 <img height="145em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
-
+<!-- stats 기본 version [![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats) -->
+	
 <!-- Most Used Languages -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact) -->
 <img height="145em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=tjy2202&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="tjy2202"/>
 
-  <p align="center"> 
-  <div  align="center">
+<div  align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=tjy2202&theme=xcode" alt="tjy2202"/>
 </div>
+
 
 <br />
 
@@ -70,17 +57,30 @@
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://tjy2202.github.io/)
 
----
+### Connect with me:
+📫 How to reach me 
+<br />
+
+[<img align="left" alt="Gitblog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="mailto:eastkite4043@gmail.com">
+	<img align="left" alt="Dongyeon Kim" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+<!--
 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+-->
 <!--END_SECTION:activity-->
 
 </details>
@@ -88,7 +88,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -97,18 +97,14 @@
 <!-- 수정 해야함 -->
 [linkedin]: https://www.instagram.com/eastk1te_  
 
-<!-- stats 기본 version [![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats) -->
 
-<!-- - tjy2202/tjy2202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. --->
 
-<!-- [course]: http://vsCodeHero.com -->
-<!--[twitter]: https://twitter.com/codeSTACKr -->
-<!--[youtube]: https://youtube.com/codeSTACKr -->
+<!-- 최근 본 유투브 리스트 양식 -->
 <!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
 <!-- - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI) -->
 <!-- YOUTUBE:END -->
+
 <!--  ➡️ [more videos...](https://youtube.com/codestackr) -->
 <!-- https://github.com/NawafSwe/NawafSwe/blob/main/README.md?plain=1 -->
 
