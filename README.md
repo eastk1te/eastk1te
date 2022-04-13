@@ -15,17 +15,21 @@
 
 <br />
 
+<p align="center">
 <a href="https://solved.ac/tjy2202"> <img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=tjy2202" alt="tjy2202" /> </a>
+<p />
 
 <br />
 
-<!-- <p align="center"> -->
+<p align="center">
 <img height="145em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
+
 <!-- stats 기본 version [![tjy2202's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjy2202)](https://github.com/tjy2202/github-readme-stats) -->
 	
 <!-- Most Used Languages -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjy2202&layout=compact) -->
 <img height="145em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=tjy2202&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="tjy2202"/>
+<p />
 
 <div  align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=tjy2202&theme=xcode" alt="tjy2202"/>
