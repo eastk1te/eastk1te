@@ -60,7 +60,7 @@
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="mailto:eastkite4043@gmail.com">
 	<img align="left" alt="Dongyeon Kim" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a> <br />
 
 ---
 
