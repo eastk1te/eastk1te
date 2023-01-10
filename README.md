@@ -22,7 +22,9 @@
 <p /> 
 
 <div  align="center"> <!-- current activity -->
-    <img src="(https://github-readme-activity-graph.cyclic.app/graph?username=tjy2202&bg_color=1a1a1a&color=c9c9c9&line=50a838&point=4cc0c2&area=true&hide_border=true" alt="tjy2202"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tjy2202&bg_color=1a1a1a&color=c9c9c9&line=50a838&point=4cc0c2&area=true&hide_border=true" alt="tjy2202"/>
+	
+	
 </div>
 
 ---
