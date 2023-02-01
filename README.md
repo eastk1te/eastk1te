@@ -15,14 +15,14 @@
 
 <p align="center"> 
 <!-- github stats-->
-<img height="145em" src="https://mz-github-stats.vercel.app/api?username=tjy2202&show_icons=true&hide_border=true&theme=radical" alt="tjy2202"/>
+<img height="145em" src="https://mz-github-stats.vercel.app/api?username=eastk1te&show_icons=true&hide_border=true&theme=radical" alt="eastk1te"/>
 
 <!-- Most Used Languages -->
-<img height="145em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=tjy2202&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="tjy2202"/>
+<img height="145em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=eastk1te&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="eastk1te"/>
 <p /> 
 
 <div  align="center"> <!-- current activity -->
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tjy2202&bg_color=1a1a1a&color=c9c9c9&line=50a838&point=4cc0c2&area=true&hide_border=true" alt="tjy2202"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eastk1te&bg_color=1a1a1a&color=c9c9c9&line=50a838&point=4cc0c2&area=true&hide_border=true" alt="tjy2202"/>
 	
 	
 </div>
